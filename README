@@ -1,0 +1,7 @@
+MicroMiniStatus - personal status log in the shell.
+===================================================
+
+Useful for stuff like, "Staff meeting's coming... What did I do this
+week? Oh yeah, I can just skim my mms statuses!" This script just writes.
+To read, just use your $PAGER or text editor.
+
