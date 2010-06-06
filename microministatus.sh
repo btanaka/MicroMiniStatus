@@ -14,9 +14,9 @@ MMSLOG="$HOME/Desktop/mmslog.txt"
 # do it
 #
 NOW=`date`
-separator="-------------------- $NOW"
+SEPARATOR="-------------------- $NOW"
 echo "What are you doing? Just did? About to do? Etc."
 read ANSWER
-echo $separator >> $MMSLOG
+echo $SEPARATOR >> $MMSLOG
 echo $ANSWER >> $MMSLOG
 tail $MMSLOG
